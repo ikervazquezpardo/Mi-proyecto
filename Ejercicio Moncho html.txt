@@ -1,0 +1,9 @@
+<html>
+
+	<body>
+		<encabezado>
+			Este es el titulo de la pagina web
+		</encabezado>
+	</body>
+
+</html>
