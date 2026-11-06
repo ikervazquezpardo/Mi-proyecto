@@ -4,6 +4,9 @@
 		<encabezado>
 			Este es el titulo de la pagina web
 		</encabezado>
+		<cuerpo>
+		Ser nazi en el siglo 21, es mi pasion, y aunque no parezca es mas facil de lo que parece 
+		</cuerpo>
 	</body>
 
 </html>
